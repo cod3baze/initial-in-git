@@ -21,4 +21,19 @@ Guia prático para iniciantes
 - [X] Mostra as ramificações existentes no projeto.
   -- git brach
 
+- [X] Voçê deseja unir as informações das linhas do tempo/branch.
+  -- git merge { nome_da_branch }
 
+- [X] Você quer apagar a branch depois de unir as branch.
+  -- git branch -D { nomde_da_branch_para_deletar }
+
+- [x] Você quer colocar o repositóiro na nuvem.
+
+*REVIEW*
+
+- `git int` // inicia a linha do tempo.
+- `git add` // adiciona ou atualiza mudanças para irem na linha do tempo.
+- `git commit` // adiciona um ponto na linha do tempo.
+- `git log` // mostra os pontos feito na história.
+- `git status` // informa o estado das alterações do projeto.
+- `git show` // apresenta determinado ponto na história.
