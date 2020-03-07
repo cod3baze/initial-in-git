@@ -1,4 +1,7 @@
 {
+  "dependencies": {
+    "@babel": "^8.2.1"
+  },
   "scripts": {
     "dev": "node ./loads.html"
   }
