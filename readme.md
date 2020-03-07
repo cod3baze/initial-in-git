@@ -28,6 +28,7 @@ Guia prático para iniciantes
   -- git branch -D { nomde_da_branch_para_deletar }
 
 - [x] Você quer colocar o repositóiro na nuvem.
+  -- git remote add origin { link_github }
 
 *REVIEW*
 
