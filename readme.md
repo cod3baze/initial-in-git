@@ -15,8 +15,10 @@ Guia prático para iniciantes
 
 ---------------------------------------------------------------------------------
 
-[X] Criar funções novas sem estragar nas que já existem.
+- [X] Criar funções novas sem estragar as que já existem.
   -- git branch { nome_branch }
 
+- [X] Mostra as ramificações existentes no projeto.
+  -- git brach
 
 
