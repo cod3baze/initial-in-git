@@ -32,9 +32,9 @@ Guia prático para iniciantes
 
 *REVIEW*
 
-- `git int` // inicia a linha do tempo.
-- `git add` // adiciona ou atualiza mudanças para irem na linha do tempo.
-- `git commit` // adiciona um ponto na linha do tempo.
-- `git log` // mostra os pontos feito na história.
-- `git status` // informa o estado das alterações do projeto.
-- `git show` // apresenta determinado ponto na história.
+* `git int` // inicia a linha do tempo.
+* `git add` // adiciona ou atualiza mudanças para irem na linha do tempo.
+* `git commit` // adiciona um ponto na linha do tempo.
+* `git log` // mostra os pontos feito na história.
+* `git status` // informa o estado das alterações do projeto.
+* `git show` // apresenta determinado ponto na história.
